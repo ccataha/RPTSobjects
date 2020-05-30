@@ -5,7 +5,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using RPTSobj.InfrastructureServices.Gateways.Database;
 using Microsoft.EntityFrameworkCore;
-using RPTSobj.ApplicationServices.GetRPTSobjListUseCase;
+using RPTSobj.ApplicationServices.GetMetroLineListUseCase;
 using RPTSobj.ApplicationServices.Ports.Gateways.Database;
 using RPTSobj.ApplicationServices.Repositories;
 using RPTSobj.DomainObjects.Ports;
@@ -33,6 +33,8 @@ namespace RPTSobj.WebService
             services.AddScoped<DbRPTSobjRepository>();
             services.AddScoped<IReadOnlyRPTSobjRepository>(x => x.GetRequiredService<DbRPTSobjRepository>());
             services.AddScoped<IRPTSobjRepository>(x => x.GetRequiredService<DbRPTSobjRepository>());
+
+
             services.AddScoped<IGetRPTSobjListUseCase, GetRPTSobjListUseCase>();
 
             

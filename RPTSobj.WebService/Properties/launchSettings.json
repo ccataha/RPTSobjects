@@ -12,18 +12,19 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "rptsObj",
+      "launchUrl": "rptsobjs",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "RPTSobjects.WebService": {
+    "RPTSobj.WebService": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "rptsObj",
+      "launchUrl": "rptsobjs",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
-      }
+      },
+      "remoteDebugEnabled": false
     }
   }
 }
