@@ -17,7 +17,7 @@
             <ColumnDefinition Width="*" />
         </Grid.ColumnDefinitions>
 
-        <ListBox Grid.Column="0" Padding="5" Background="GreenYellow" Foreground="white" ItemsSource="{Binding RPTSobjs}" SelectedItem="{Binding CurrentRPTSobj}">
+        <ListBox Grid.Column="0" Padding="5" Background="CornflowerBlue" Foreground="white" ItemsSource="{Binding RPTSobjs}" SelectedItem="{Binding CurrentRPTSobj}">
             <ListBox.ItemTemplate>
                 <DataTemplate>
                     <StackPanel Margin="5">

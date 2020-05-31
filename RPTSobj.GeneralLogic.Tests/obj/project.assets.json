@@ -1945,11 +1945,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\prac3\\RPTSobj.GeneralLogic.Tests\\RPTSobj.GeneralLogic.Tests.csproj",
+      "projectUniqueName": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.GeneralLogic.Tests\\RPTSobj.GeneralLogic.Tests.csproj",
       "projectName": "RPTSobj.GeneralLogic.Tests",
-      "projectPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\prac3\\RPTSobj.GeneralLogic.Tests\\RPTSobj.GeneralLogic.Tests.csproj",
+      "projectPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.GeneralLogic.Tests\\RPTSobj.GeneralLogic.Tests.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\prac3\\RPTSobj.GeneralLogic.Tests\\obj\\",
+      "outputPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.GeneralLogic.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1966,8 +1966,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\prac3\\RPTSobj.WebService\\RPTSobj.WebService.csproj": {
-              "projectPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\prac3\\RPTSobj.WebService\\RPTSobj.WebService.csproj"
+            "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.WebService\\RPTSobj.WebService.csproj": {
+              "projectPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.WebService\\RPTSobj.WebService.csproj"
             }
           }
         }
