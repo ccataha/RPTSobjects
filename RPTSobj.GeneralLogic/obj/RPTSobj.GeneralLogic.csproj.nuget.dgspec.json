@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\prac3\\RPTSobj.GeneralLogic\\RPTSobj.GeneralLogic.csproj": {}
+    "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab6\\RPTSobj.GeneralLogic\\RPTSobj.GeneralLogic.csproj": {}
   },
   "projects": {
-    "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\prac3\\RPTSobj.GeneralLogic\\RPTSobj.GeneralLogic.csproj": {
+    "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab6\\RPTSobj.GeneralLogic\\RPTSobj.GeneralLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\prac3\\RPTSobj.GeneralLogic\\RPTSobj.GeneralLogic.csproj",
+        "projectUniqueName": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab6\\RPTSobj.GeneralLogic\\RPTSobj.GeneralLogic.csproj",
         "projectName": "RPTSobj.GeneralLogic",
-        "projectPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\prac3\\RPTSobj.GeneralLogic\\RPTSobj.GeneralLogic.csproj",
+        "projectPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab6\\RPTSobj.GeneralLogic\\RPTSobj.GeneralLogic.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\prac3\\RPTSobj.GeneralLogic\\obj\\",
+        "outputPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab6\\RPTSobj.GeneralLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
