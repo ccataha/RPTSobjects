@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A6XDHNW35YYAnFPReZKnlIWh/vfwS8xiUI3I7v/rEizb0MzGYA8tZH9OQscnXD9tO8LPl8qqNDB0yb2WHyiJCw==",
+  "dgSpecHash": "Ca+a25VYQU4wvE0H/H9sbizt57JE3tIE10Hd0v7IzycCbESHeNo8cINYfVo4dF2pwdPCPIFHFHw2Dgn02C/GaQ==",
   "success": true,
-  "projectFilePath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\prac3\\RPTSobj.WebService\\RPTSobj.WebService.csproj",
+  "projectFilePath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.WebService\\RPTSobj.WebService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

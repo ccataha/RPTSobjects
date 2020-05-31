@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\prac3\\RPTSobj.DesktopClient\\RPTSobj.DesktopClient.csproj": {}
+    "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.DesktopClient\\RPTSobj.DesktopClient.csproj": {}
   },
   "projects": {
-    "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\prac3\\RPTSobj.DesktopClient\\RPTSobj.DesktopClient.csproj": {
+    "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.DesktopClient\\RPTSobj.DesktopClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\prac3\\RPTSobj.DesktopClient\\RPTSobj.DesktopClient.csproj",
+        "projectUniqueName": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.DesktopClient\\RPTSobj.DesktopClient.csproj",
         "projectName": "RPTSobj.DesktopClient",
-        "projectPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\prac3\\RPTSobj.DesktopClient\\RPTSobj.DesktopClient.csproj",
+        "projectPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.DesktopClient\\RPTSobj.DesktopClient.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\prac3\\RPTSobj.DesktopClient\\obj\\",
+        "outputPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.DesktopClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -28,8 +28,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\prac3\\RPTSobj.GeneralLogic\\RPTSobj.GeneralLogic.csproj": {
-                "projectPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\prac3\\RPTSobj.GeneralLogic\\RPTSobj.GeneralLogic.csproj"
+              "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.GeneralLogic\\RPTSobj.GeneralLogic.csproj": {
+                "projectPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.GeneralLogic\\RPTSobj.GeneralLogic.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\prac3\\RPTSobj.GeneralLogic\\RPTSobj.GeneralLogic.csproj": {
+    "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.GeneralLogic\\RPTSobj.GeneralLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\prac3\\RPTSobj.GeneralLogic\\RPTSobj.GeneralLogic.csproj",
+        "projectUniqueName": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.GeneralLogic\\RPTSobj.GeneralLogic.csproj",
         "projectName": "RPTSobj.GeneralLogic",
-        "projectPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\prac3\\RPTSobj.GeneralLogic\\RPTSobj.GeneralLogic.csproj",
+        "projectPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.GeneralLogic\\RPTSobj.GeneralLogic.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\prac3\\RPTSobj.GeneralLogic\\obj\\",
+        "outputPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.GeneralLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
