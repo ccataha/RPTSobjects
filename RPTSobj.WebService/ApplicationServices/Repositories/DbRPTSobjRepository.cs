@@ -33,5 +33,7 @@ namespace RPTSobj.ApplicationServices.Repositories
 
         public async Task UpdateRPTSobj(rptsobj rptsobj)
             => await _databaseGateway.UpdateRPTSobj(rptsobj);
+        public async Task ParseAndPush()
+          => await _databaseGateway.ParseAndPush();
     }
 }

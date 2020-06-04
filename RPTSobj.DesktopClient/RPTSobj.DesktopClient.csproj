@@ -16,11 +16,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\RPTSobj.GeneralLogic\RPTSobj.GeneralLogic.csproj" />
+    <Page Include="App.xaml" />
   </ItemGroup>
-
   <ItemGroup>
-    <Resource Include="Fonts\Montserrat-Medium.ttf" />
+    <ProjectReference Include="..\RPTSobj.GeneralLogic\RPTSobj.GeneralLogic.csproj" />
+    <ProjectReference Include="..\RPTSobj.WebService\RPTSobj.WebService.csproj" />
   </ItemGroup>
 
 </Project>

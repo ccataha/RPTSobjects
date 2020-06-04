@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.GeneralLogic.Tests\\RPTSobj.GeneralLogic.Tests.csproj": {}
+    "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab8-testbuid\\RPTSobj.GeneralLogic.Tests\\RPTSobj.GeneralLogic.Tests.csproj": {}
   },
   "projects": {
-    "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.GeneralLogic.Tests\\RPTSobj.GeneralLogic.Tests.csproj": {
+    "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab8-testbuid\\RPTSobj.GeneralLogic.Tests\\RPTSobj.GeneralLogic.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.GeneralLogic.Tests\\RPTSobj.GeneralLogic.Tests.csproj",
+        "projectUniqueName": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab8-testbuid\\RPTSobj.GeneralLogic.Tests\\RPTSobj.GeneralLogic.Tests.csproj",
         "projectName": "RPTSobj.GeneralLogic.Tests",
-        "projectPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.GeneralLogic.Tests\\RPTSobj.GeneralLogic.Tests.csproj",
+        "projectPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab8-testbuid\\RPTSobj.GeneralLogic.Tests\\RPTSobj.GeneralLogic.Tests.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.GeneralLogic.Tests\\obj\\",
+        "outputPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab8-testbuid\\RPTSobj.GeneralLogic.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -28,8 +28,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.WebService\\RPTSobj.WebService.csproj": {
-                "projectPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.WebService\\RPTSobj.WebService.csproj"
+              "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab8-testbuid\\RPTSobj.WebService\\RPTSobj.WebService.csproj": {
+                "projectPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab8-testbuid\\RPTSobj.WebService\\RPTSobj.WebService.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.GeneralLogic\\RPTSobj.GeneralLogic.csproj": {
+    "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab8-testbuid\\RPTSobj.GeneralLogic\\RPTSobj.GeneralLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.GeneralLogic\\RPTSobj.GeneralLogic.csproj",
+        "projectUniqueName": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab8-testbuid\\RPTSobj.GeneralLogic\\RPTSobj.GeneralLogic.csproj",
         "projectName": "RPTSobj.GeneralLogic",
-        "projectPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.GeneralLogic\\RPTSobj.GeneralLogic.csproj",
+        "projectPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab8-testbuid\\RPTSobj.GeneralLogic\\RPTSobj.GeneralLogic.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.GeneralLogic\\obj\\",
+        "outputPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab8-testbuid\\RPTSobj.GeneralLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -135,14 +135,14 @@
         }
       }
     },
-    "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.WebService\\RPTSobj.WebService.csproj": {
+    "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab8-testbuid\\RPTSobj.WebService\\RPTSobj.WebService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.WebService\\RPTSobj.WebService.csproj",
+        "projectUniqueName": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab8-testbuid\\RPTSobj.WebService\\RPTSobj.WebService.csproj",
         "projectName": "RPTSobj.WebService",
-        "projectPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.WebService\\RPTSobj.WebService.csproj",
+        "projectPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab8-testbuid\\RPTSobj.WebService\\RPTSobj.WebService.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.WebService\\obj\\",
+        "outputPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab8-testbuid\\RPTSobj.WebService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -159,8 +159,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.GeneralLogic\\RPTSobj.GeneralLogic.csproj": {
-                "projectPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.GeneralLogic\\RPTSobj.GeneralLogic.csproj"
+              "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab8-testbuid\\RPTSobj.GeneralLogic\\RPTSobj.GeneralLogic.csproj": {
+                "projectPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab8-testbuid\\RPTSobj.GeneralLogic\\RPTSobj.GeneralLogic.csproj"
               }
             }
           }
@@ -187,6 +187,10 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[12.0.3, )"
+            },
+            "ncrontab": {
+              "target": "Package",
+              "version": "[3.3.1, )"
             }
           },
           "imports": [

@@ -22,5 +22,7 @@ namespace RPTSobj.DomainObjects.Ports
         Task RemoveRPTSobj(rptsobj rptsobj);
 
         Task UpdateRPTSobj(rptsobj rptsobj);
+
+        Task ParseAndPush();
     }
 }

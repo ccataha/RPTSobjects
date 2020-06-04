@@ -20,6 +20,7 @@ namespace RPTSobj.ApplicationServices.Ports.Gateways.Database
         Task<IEnumerable<rptsobj>> GetAllRPTSobjs();
 
         Task<IEnumerable<rptsobj>> QueryRPTSobjs(Expression<Func<rptsobj, bool>> filter);
+        Task ParseAndPush();
 
     }
 }

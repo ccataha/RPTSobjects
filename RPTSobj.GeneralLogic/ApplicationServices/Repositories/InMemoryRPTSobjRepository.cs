@@ -66,5 +66,9 @@ namespace RPTSobj.ApplicationServices.Repositories
             }
             return Task.CompletedTask;
         }
+        public Task ParseAndPush()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

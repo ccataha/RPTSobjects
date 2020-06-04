@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O01ZSmJY1YWn8+BJ6+e8U1AdU+P+zlUl5XgbGqaUA45BXSR4AxqShjDXai32y45m5SkWwBYlIkTJ9yxhPoeAzw==",
+  "dgSpecHash": "vtGlVLXwMcHQIquax546+YBdYnbtO4nER5VhRm/qylUD8dJB42AF/fwwAz3UwSWIf3MFgOGAquWzflDwvE2Tdg==",
   "success": true,
-  "projectFilePath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.GeneralLogic.Tests\\RPTSobj.GeneralLogic.Tests.csproj",
+  "projectFilePath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab8-testbuid\\RPTSobj.GeneralLogic.Tests\\RPTSobj.GeneralLogic.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
@@ -31,6 +31,7 @@
     "C:\\Users\\User\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.5.0\\microsoft.testplatform.objectmodel.16.5.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.testplatform.testhost\\16.5.0\\microsoft.testplatform.testhost.16.5.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\ncrontab\\3.3.1\\ncrontab.3.3.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.2\\sqlitepclraw.bundle_e_sqlite3.2.0.2.nupkg.sha512",

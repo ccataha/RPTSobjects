@@ -34,6 +34,7 @@
             <TextBlock Padding="2" TextWrapping="Wrap" Text="{Binding StringFormat=MetroStation: {0}, Path=MetroStation}" />
             <TextBlock Padding="2" TextWrapping="Wrap" Text="{Binding StringFormat=MetroLine: {0}, Path=MetroLine}" />
             <TextBlock Padding="2" TextWrapping="Wrap" Text="{Binding StringFormat=WebSite: {0}, Path=WebSite}" />
+            <Button x:Name="saveButton" Width="100" Height="50" Click="btn1_Click" Content="Update" />
         </StackPanel>
     </Grid>
 </Window>

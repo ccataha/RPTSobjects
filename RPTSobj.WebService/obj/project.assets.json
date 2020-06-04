@@ -287,6 +287,15 @@
           "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll": {}
         }
       },
+      "NCrontab/3.3.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/NCrontab.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/NCrontab.dll": {}
+        }
+      },
       "Newtonsoft.Json/12.0.3": {
         "type": "package",
         "compile": {
@@ -904,6 +913,24 @@
         "microsoft.extensions.primitives.nuspec"
       ]
     },
+    "NCrontab/3.3.1": {
+      "sha512": "G3tzcIIgsiyZyVbHNPyn5+adaM9UjeVNgjrRsvXU7wo2sMhpvpQrir29dcjIND53H/fuTdgg9nI3SfFFg7barA==",
+      "type": "package",
+      "path": "ncrontab/3.3.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "COPYING.txt",
+        "lib/net35/NCrontab.dll",
+        "lib/net35/NCrontab.pdb",
+        "lib/netstandard1.0/NCrontab.dll",
+        "lib/netstandard1.0/NCrontab.pdb",
+        "lib/netstandard2.0/NCrontab.dll",
+        "lib/netstandard2.0/NCrontab.pdb",
+        "ncrontab.3.3.1.nupkg.sha512",
+        "ncrontab.nuspec"
+      ]
+    },
     "Newtonsoft.Json/12.0.3": {
       "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
       "type": "package",
@@ -1198,7 +1225,8 @@
       "Microsoft.EntityFrameworkCore.Design >= 3.1.3",
       "Microsoft.EntityFrameworkCore.Sqlite >= 3.1.3",
       "Newtonsoft.Json >= 12.0.3",
-      "RPTSobj.GeneralLogic >= 1.0.0"
+      "RPTSobj.GeneralLogic >= 1.0.0",
+      "ncrontab >= 3.3.1"
     ]
   },
   "packageFolders": {
@@ -1208,11 +1236,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.WebService\\RPTSobj.WebService.csproj",
+      "projectUniqueName": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab8-testbuid\\RPTSobj.WebService\\RPTSobj.WebService.csproj",
       "projectName": "RPTSobj.WebService",
-      "projectPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.WebService\\RPTSobj.WebService.csproj",
+      "projectPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab8-testbuid\\RPTSobj.WebService\\RPTSobj.WebService.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.WebService\\obj\\",
+      "outputPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab8-testbuid\\RPTSobj.WebService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1229,8 +1257,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.GeneralLogic\\RPTSobj.GeneralLogic.csproj": {
-              "projectPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab7\\RPTSobj.GeneralLogic\\RPTSobj.GeneralLogic.csproj"
+            "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab8-testbuid\\RPTSobj.GeneralLogic\\RPTSobj.GeneralLogic.csproj": {
+              "projectPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\lab8-testbuid\\RPTSobj.GeneralLogic\\RPTSobj.GeneralLogic.csproj"
             }
           }
         }
@@ -1257,6 +1285,10 @@
           "Newtonsoft.Json": {
             "target": "Package",
             "version": "[12.0.3, )"
+          },
+          "ncrontab": {
+            "target": "Package",
+            "version": "[3.3.1, )"
           }
         },
         "imports": [
